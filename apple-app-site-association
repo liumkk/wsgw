@@ -1,0 +1,15 @@
+{
+    "applinks": {  
+        "apps": [],  
+        "details": [  
+            {  
+                "appID": "234NFNL928.com.yunliancs.wsgwzs",  
+                "paths": [ "/wsgw/*"]  
+            },
+	    {
+ 		"appID": "234NFNL928.com.yunliancsn.wsgw",  
+                "paths": [ "/wsgw/*"]  
+	    }
+        ]  
+    }  
+}
